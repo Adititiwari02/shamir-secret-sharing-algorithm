@@ -13,3 +13,7 @@ Implementation of the shamir secret sharing algorithm used in cryptology using g
 ### Resources used:
 1. https://www.youtube.com/watch?v=kkMps3X_tEE (built understanding and intuition for the algorithm)
 2. https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing (used preparation section for generating the shares)
+
+### Images:
+<img src="/images/input.png" />
+<img src="/images/output.png" />
