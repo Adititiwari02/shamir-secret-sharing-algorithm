@@ -1,0 +1,44 @@
+Enter your secret! Enter 32 numbers which make up your secret. Keep the values between 1 - 255
+Share 1 is: 
+66 29 61 107 75 235 231 35 80 85 248 68 50 32 7 47 32 230 218 42 52 74 122 100 61 239 88 6 232 68 201 23 
+Share 2 is: 
+233 196 228 21 242 149 145 202 247 252 162 235 217 199 174 214 199 144 132 209 219 241 36 14 228 153 2 173 146 235 115 190 
+Share 3 is: 
+147 110 142 188 156 63 59 116 161 166 76 149 131 113 88 128 113 58 46 123 133 155 203 181 142 67 169 87 60 149 29 104 
+Share 4 is: 
+61 24 56 102 70 230 226 30 75 80 243 63 45 27 2 42 27 225 213 37 47 69 117 95 56 234 83 1 227 63 196 18 
+Enter any two shares which can be used for finding the secret 
+(enter no. between 1 and 4) 
+Secret found after using 1 and 3 is: 
+152		152		Matching
+115		115		Matching
+147		147		Matching
+193		193		Matching
+161		161		Matching
+68		68		Matching
+64		64		Matching
+121		121		Matching
+166		166		Matching
+171		171		Matching
+81		81		Matching
+154		154		Matching
+136		136		Matching
+118		118		Matching
+93		93		Matching
+133		133		Matching
+118		118		Matching
+63		63		Matching
+51		51		Matching
+128		128		Matching
+138		138		Matching
+160		160		Matching
+208		208		Matching
+186		186		Matching
+147		147		Matching
+72		72		Matching
+174		174		Matching
+92		92		Matching
+65		65		Matching
+154		154		Matching
+34		34		Matching
+109		109		Matching
